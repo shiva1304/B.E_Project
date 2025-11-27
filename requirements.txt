@@ -1,0 +1,13 @@
+gradio
+PyPDF2
+pytesseract
+pillow
+TTS
+torch
+torchaudio
+numpy
+scipy
+sentencepiece
+tesseract-ocr
+tesseract-ocr-hin
+tesseract-ocr-mar
